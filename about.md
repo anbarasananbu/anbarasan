@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Another minimal style of Jekyll theme for writers.
+I'm a Physicist completed a Ph.D in Physics.
