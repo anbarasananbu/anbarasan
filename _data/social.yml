@@ -1,6 +1,6 @@
 - title: Scholar
   url: https://scholar.google.com/citations?user=QI4fa-gAAAAJ&hl=en
-  icon: ai ai-google-scholar
+  icon: fab fa-google
 - title: GitHub
   url: https://github.com/anbarasananbu
   icon: fab fa-github
