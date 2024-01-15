@@ -4,7 +4,7 @@ type: publications
 title: Publications
 permalink: /publications/
 ---
-1. [Optical and terahertz characterisation of efficient NLO single crystal: (E)-2-(4-(dimethyl amine) styryl)-1,1,3-trimethyl-1H-benzo[e]indol-3-ium iodide (P-BI)]({{ '/publications/2023/01/01/palaniyasan-et-al-publication.html' | https://link.springer.com/article/10.1007/s12043-022-02476-y}). Pramana 97, 21 (2023).
+1. [Optical and terahertz characterisation of efficient NLO single crystal: (E)-2-(4-(dimethyl amine) styryl)-1,1,3-trimethyl-1H-benzo[e]indol-3-ium iodide (P-BI)](https://link.springer.com/article/10.1007/s12043-022-02476-y). Pramana 97, 21 (2023).
 2.	Palaniyasan, E., Radhakrishnan, A., Maidur, S. R., Patil, P. S. & Jeyaperumal, K. S. Evolution of physicochemical properties of 2-(2-(4-(4-chloro) phenyl) vinyl)-1, 1, 3-trimethyl-1H-benzo[e] Indolium iodide via experimental and quantum chemical calculation for third-harmonic generation applications. J. Mol. Struct. 1268, 133557 (2022).
 3.	Palaniyasan, E. et al. Synthesis, Growth, and Characterization of Single-Crystal Benzo[e]indolium for Third-Order Nonlinear Optical Properties. J. Electron. Mater. 51, 3531–3541 (2022).
 4.	Anbarasan, R. et al. Exploring the structural, mechanical, electronic, and optical properties of double perovskites of Cs2AgInX6 (X = Cl, Br, I) by first-principles calculations. J. Solid State Chem. 310, 123025 (2022).
