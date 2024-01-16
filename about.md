@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Title: Navigating the Frontiers: A Journey through Physics, Quantum Mechanics, and the World of Molecular Dynamics
+**Navigating the Frontiers: A Journey through Physics, Quantum Mechanics, and the World of Molecular Dynamics**
 
 Introduction:
 
