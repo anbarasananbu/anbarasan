@@ -14,9 +14,9 @@ Academic Milestones:
 
 With a heart brimming with curiosity, I embarked on a quest for knowledge that led me to the culmination of my academic journey – the attainment of a Doctorate in Physics. My specialized focus in the realms of density functional theory calculations and molecular dynamics has been both challenging and exhilarating.
 
-Density Functional Theory:
+Density Functional Theory and Crystallization:
 
-During my doctoral pursuits, I developed a profound understanding of density functional theory (DFT), a powerful tool that unveils the secrets of electronic structures in materials. Navigating through complex calculations, I unraveled the intricacies of matter at the atomic and molecular levels, gaining insights into the fundamental forces governing our universe.
+During my doctoral pursuits, I embarked on a journey into the realm of Density Functional Theory (DFT), a powerful tool revealing the secrets of electronic structures in materials. Navigating through complex calculations, I unraveled the intricacies of matter at the atomic and molecular levels, gaining insights into the fundamental forces governing our universe. In tandem with my theoretical explorations, I engaged in material synthesis, designing and creating novel materials through crystal growth as part of my experimental endeavors. This approach allowed me to bridge the gap between theory and the practical realization of new materials. Leveraging DFT, I analyzed and compared the properties of the synthesized materials, providing a comprehensive understanding of their electronic structures and behaviors. This dual perspective enhanced my research by combining theoretical insights with material synthesis, offering a holistic approach to advancing our understanding of materials science.
 
 Molecular Dynamics:
 
