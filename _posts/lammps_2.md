@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Installing LAMMPS GPU Version on CentOS"
+date: 2024-01-15
+author: "R. Anbarasan"
+---
+
+# Step 1: Download LAMMPS
+
+Download LAMMPS from the official site [https://www.lammps.org/download.html](https://www.lammps.org/download.html) and extract the LAMMPS package into your user directory.
+
+# Step 2: Configure GPU Support
+
+Navigate to the "lib/gpu" folder and edit the "Makefile.mpi".
+
+```makefile
+CUDA_HOME = "location of the CUDA directory"  ## For example /usr/local/cuda
+CUDA_LIB  = "location of the CUDA library"
+```
+
+Uncomment CUDA_ARCH. The type of hardware depends on your GPU model, so Google your NVIDIA GPU model to get the CUDA_ARCH type.
+For example
+```makefile
+CUDA_ARCH = -arch=sm_86
+```
+Build the GPU library with the following command:
+```makefile
+make -f Makefile.mpi
+```
+# Step 3: Install GPU Package and other necessary packages
+Run the following commands:
+```bash
+make yes-gpu
+```
+Build lammps executable with following commands,
+```bash
+make gpu                  # Build LAMMPS executable with serial
+make gpu -j 8             # Build LAMMPS executable with parallel
+```
+After successfull compilation without any error, the lmp_gpu executable is available in the src directory.
